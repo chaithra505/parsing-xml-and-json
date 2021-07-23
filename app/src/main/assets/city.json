@@ -1,0 +1,14 @@
+[
+  {"name": "Punjalkatte",
+    "lat": "12.295",
+    "long": "76.89",
+    "temperature": "34",
+    "humidity": "90%"
+  },
+  {"name": "ujire",
+    "lat": "18.295",
+    "long": "79.89",
+    "temperature": "34",
+    "humidity": "90%"
+  }
+]
